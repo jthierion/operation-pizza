@@ -498,7 +498,7 @@ h1 {
 
 @media (max-width: 520px) {
   .recap-row {
-    grid-template-columns: 26px 78px 1fr;
+    grid-template-columns: 45px 78px 1fr;
     padding-left: 12px;
     padding-right: 12px;
   }
