@@ -833,7 +833,7 @@ function renderWinner(pizza, chosenByChaos = false) {
         ${renderRatingWidget()}
 
         <div class="final-callback">
-          <span>⚠️ - Température réglementaire des pizzas livrée non garantie.</span>
+          <span>⚠️ - Température réglementaire des pizzas livrées non garantie.</span>
           <span>🌰 - Toute commande livrée inclut un sachet de noisettes pour l’hiver.</span>
           <span>🧥 - N'oubliez pas votre pull pour une soirée plus agréable.</span>
         </div>
