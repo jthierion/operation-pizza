@@ -450,7 +450,7 @@ h1 {
 
 .recap-row {
   display: grid;
-  grid-template-columns: 28px 92px 1fr;
+  grid-template-columns: 60px 92px 1fr;
   align-items: center;
   gap: 9px;
   padding: 11px 15px;
@@ -464,6 +464,7 @@ h1 {
 .recap-icon {
   text-align: center;
   font-size: 1.12rem;
+  white-space: nowrap;
 }
 
 .recap-key {
