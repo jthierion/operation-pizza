@@ -726,6 +726,12 @@ function renderDeliverySlip(pizza) {
       </div>
       <div class="delivery-subcopy">
         Celui-ci fera le nécessaire. 🚗🍕
+        <ul>
+          <li>📅 Samedi 12 septembre</li>
+          <li>🕗 Heure estimée : 20h00</li>
+          <li>📍 Point de livraison : Chef de Baie</li>
+          <li>⚠️ Retards éventuels liés au trafic et à la ponctualité du pizzaïolo...</li>
+        </ul>
       </div>
     </div>`;
 }
@@ -827,7 +833,7 @@ function renderWinner(pizza, chosenByChaos = false) {
         ${renderDeliverySlip(pizza)}
 
         <p class="helper winner-copy">
-          C'est noté. Maintenant, aucune tentative de corruption du pizzaiolo ne sera tolérée...
+          Aucune tentative de corruption ne sera tolérée à partir de maintenant...
         </p>
 
         ${renderRatingWidget()}

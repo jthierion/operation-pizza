@@ -556,6 +556,24 @@ h1 {
   font-size: .82rem;
 }
 
+.delivery-subcopy ul {
+  width: fit-content;
+  max-width: 90%;
+  margin: 12px auto 0;
+  padding: 0;
+  text-align: left;
+  list-style: none;
+  line-height: 1.35;
+}
+
+.delivery-subcopy li {
+  margin: 4px 0;
+}
+
+.delivery-subcopy li + li {
+  margin-top: 3px;
+}
+
 .rating-card {
   margin: 28px auto 0;
   padding: 20px;
