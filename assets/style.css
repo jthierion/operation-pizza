@@ -486,9 +486,16 @@ h1 {
 
 @media (max-width: 520px) {
   .recap-row {
-    grid-template-columns: 26px 78px 1fr;
-    padding-left: 12px;
-    padding-right: 12px;
+    display: grid;
+    grid-template-columns: 68px 140px 1fr;
+    align-items: center;
+  }
+
+  .recap-icon {
+    font-size: 1.15rem;
+    line-height: 1;
+    white-space: nowrap;
+    text-align: center;
   }
 }
 
