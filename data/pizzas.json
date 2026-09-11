@@ -1,0 +1,620 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "tomate_fraiche",
+        "basilic",
+        "grana_padano",
+        "olives"
+      ],
+      "tags": [
+        "vegetarien",
+        "fromage",
+        "frais",
+        "classique",
+        "doux"
+      ]
+    },
+    {
+      "id": 2,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_blanc",
+        "oeuf",
+        "olives",
+        "origan"
+      ],
+      "tags": [
+        "charcuterie",
+        "oeuf",
+        "classique",
+        "doux"
+      ]
+    },
+    {
+      "id": 3,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_blanc",
+        "champignons",
+        "oignons",
+        "olives"
+      ],
+      "tags": [
+        "charcuterie",
+        "champignons",
+        "classique",
+        "doux"
+      ]
+    },
+    {
+      "id": 4,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "champignons",
+        "artichauts",
+        "tomate_fraiche",
+        "poivrons_confits",
+        "olives"
+      ],
+      "tags": [
+        "vegetarien",
+        "legumes",
+        "champignons",
+        "mediterraneen",
+        "doux"
+      ]
+    },
+    {
+      "id": 5,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "boeuf_hache",
+        "tomate_fraiche",
+        "oignons",
+        "basilic",
+        "olives"
+      ],
+      "tags": [
+        "viande",
+        "boeuf",
+        "classique",
+        "doux"
+      ]
+    },
+    {
+      "id": 6,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "chevre",
+        "gorgonzola",
+        "grana_padano",
+        "olives",
+        "origan"
+      ],
+      "tags": [
+        "vegetarien",
+        "fromage",
+        "fromage_corse",
+        "chevre",
+        "gorgonzola",
+        "intense"
+      ]
+    },
+    {
+      "id": 7,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_blanc",
+        "champignons",
+        "artichauts",
+        "persillade",
+        "olives"
+      ],
+      "tags": [
+        "charcuterie",
+        "champignons",
+        "legumes",
+        "classique"
+      ]
+    },
+    {
+      "id": 8,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "aubergines_confites",
+        "capres",
+        "olives",
+        "burrata",
+        "pesto"
+      ],
+      "tags": [
+        "vegetarien",
+        "legumes",
+        "aubergine",
+        "burrata",
+        "pesto",
+        "mediterraneen",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 9,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "saucisse_fenouil",
+        "gorgonzola",
+        "artichauts",
+        "creme_balsamique",
+        "olives"
+      ],
+      "tags": [
+        "charcuterie",
+        "saucisse_fenouil",
+        "gorgonzola",
+        "fromage_corse",
+        "italien",
+        "intense"
+      ]
+    },
+    {
+      "id": 10,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "saucisse_fenouil",
+        "spianata_piccante",
+        "oignons",
+        "basilic"
+      ],
+      "tags": [
+        "charcuterie",
+        "saucisse_fenouil",
+        "spianata",
+        "piquant",
+        "italien",
+        "intense"
+      ]
+    },
+    {
+      "id": 11,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "boeuf_hache",
+        "gorgonzola",
+        "oeuf",
+        "oignons",
+        "creme_balsamique"
+      ],
+      "tags": [
+        "viande",
+        "boeuf",
+        "gorgonzola",
+        "fromage_corse",
+        "oeuf",
+        "gourmand",
+        "intense"
+      ]
+    },
+    {
+      "id": 12,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "spianata_piccante",
+        "gorgonzola",
+        "olives",
+        "basilic"
+      ],
+      "tags": [
+        "charcuterie",
+        "spianata",
+        "piquant",
+        "gorgonzola",
+        "fromage_corse",
+        "italien",
+        "intense"
+      ]
+    },
+    {
+      "id": 13,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_blanc",
+        "champignons",
+        "burrata",
+        "pesto"
+      ],
+      "tags": [
+        "charcuterie",
+        "champignons",
+        "burrata",
+        "pesto",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 14,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "champignons",
+        "lardons",
+        "guanciale",
+        "creme",
+        "persillade"
+      ],
+      "tags": [
+        "charcuterie",
+        "champignons",
+        "porc",
+        "cremeux",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 15,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "anchois",
+        "tomate_fraiche",
+        "capres",
+        "oignons",
+        "olives",
+        "basilic"
+      ],
+      "tags": [
+        "poisson",
+        "anchois",
+        "mediterraneen",
+        "sale",
+        "intense"
+      ]
+    },
+    {
+      "id": 16,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "spianata_piccante",
+        "poivrons_confits",
+        "oignons",
+        "olives"
+      ],
+      "tags": [
+        "charcuterie",
+        "spianata",
+        "piquant",
+        "legumes",
+        "poivrons",
+        "italien"
+      ]
+    },
+    {
+      "id": 17,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "tomate_fraiche",
+        "poivrons",
+        "thon",
+        "oignons",
+        "persillade",
+        "olives"
+      ],
+      "tags": [
+        "poisson",
+        "thon",
+        "legumes",
+        "mediterraneen",
+        "doux"
+      ]
+    },
+    {
+      "id": 18,
+      "base": "creme",
+      "ingredients": [
+        "creme",
+        "mozzarella",
+        "chevre",
+        "roquette",
+        "noix",
+        "miel"
+      ],
+      "tags": [
+        "vegetarien",
+        "fromage",
+        "chevre",
+        "sucre_sale",
+        "noix",
+        "miel",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 19,
+      "base": "creme",
+      "ingredients": [
+        "creme",
+        "mozzarella",
+        "lardons",
+        "pomme_de_terre",
+        "reblochon",
+        "oignons"
+      ],
+      "tags": [
+        "charcuterie",
+        "porc",
+        "fromage",
+        "cremeux",
+        "gourmand",
+        "reconfort"
+      ]
+    },
+    {
+      "id": 20,
+      "base": "creme",
+      "ingredients": [
+        "creme",
+        "mozzarella",
+        "champignons",
+        "jambon_blanc",
+        "chevre"
+      ],
+      "tags": [
+        "charcuterie",
+        "champignons",
+        "chevre",
+        "fromage",
+        "cremeux",
+        "doux"
+      ]
+    },
+    {
+      "id": 21,
+      "base": "creme",
+      "ingredients": [
+        "creme",
+        "mozzarella",
+        "aubergines",
+        "poivrons_confits",
+        "jambon_cru",
+        "burrata",
+        "pesto"
+      ],
+      "tags": [
+        "charcuterie",
+        "jambon_cru",
+        "legumes",
+        "aubergine",
+        "poivrons",
+        "burrata",
+        "pesto",
+        "gourmand",
+        "italien"
+      ]
+    },
+    {
+      "id": 22,
+      "base": "tomate",
+      "format": "calzone",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_blanc",
+        "champignons",
+        "oeuf",
+        "origan"
+      ],
+      "tags": [
+        "charcuterie",
+        "champignons",
+        "oeuf",
+        "classique",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 23,
+      "base": "mixte",
+      "format": "demi_calzone",
+      "ingredients": [
+        "mozzarella",
+        "gorgonzola",
+        "grana_padano",
+        "origan",
+        "saucisse_fenouil",
+        "aubergines_confites",
+        "huile_olive",
+        "basilic"
+      ],
+      "tags": [
+        "charcuterie",
+        "saucisse_fenouil",
+        "aubergine",
+        "fromage",
+        "gorgonzola",
+        "fromage_corse",
+        "original",
+        "intense"
+      ]
+    },
+    {
+      "id": 24,
+      "base": "truffe",
+      "ingredients": [
+        "creme_truffe",
+        "mozzarella",
+        "jambon_blanc",
+        "mozzarella_bufflonne",
+        "roquette"
+      ],
+      "tags": [
+        "charcuterie",
+        "truffe",
+        "fromage",
+        "cremeux",
+        "premium",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 25,
+      "base": "pistache",
+      "ingredients": [
+        "pesto_pistache",
+        "mozzarella",
+        "mortadelle",
+        "burrata",
+        "pistache",
+        "huile_olive",
+        "basilic"
+      ],
+      "tags": [
+        "charcuterie",
+        "mortadelle",
+        "burrata",
+        "pistache",
+        "italien",
+        "premium",
+        "gourmand",
+        "original"
+      ]
+    },
+    {
+      "id": 26,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_cru",
+        "jambon_cru_fume",
+        "roquette",
+        "tomates_confites",
+        "burrata",
+        "creme_balsamique"
+      ],
+      "tags": [
+        "charcuterie",
+        "jambon_cru",
+        "burrata",
+        "italien",
+        "premium",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 27,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_blanc",
+        "spianata_piccante",
+        "creme",
+        "persillade"
+      ],
+      "tags": [
+        "charcuterie",
+        "spianata",
+        "piquant",
+        "cremeux",
+        "italien"
+      ]
+    },
+    {
+      "id": 28,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "jambon_blanc",
+        "saucisse_fenouil",
+        "guanciale",
+        "olives"
+      ],
+      "tags": [
+        "charcuterie",
+        "porc",
+        "saucisse_fenouil",
+        "italien",
+        "carnivore",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 29,
+      "base": "tomate",
+      "ingredients": [
+        "tomate",
+        "mozzarella",
+        "aubergines_confites",
+        "pancetta",
+        "burrata",
+        "pesto"
+      ],
+      "tags": [
+        "charcuterie",
+        "porc",
+        "aubergine",
+        "burrata",
+        "pesto",
+        "italien",
+        "gourmand"
+      ]
+    },
+    {
+      "id": 30,
+      "base": "truffe",
+      "ingredients": [
+        "creme_truffe",
+        "mozzarella",
+        "champignons",
+        "cepes",
+        "persil",
+        "mozzarella_bufflonne"
+      ],
+      "tags": [
+        "vegetarien",
+        "champignons",
+        "cepes",
+        "truffe",
+        "fromage",
+        "premium",
+        "gourmand",
+        "intense"
+      ]
+    }
+  ]
+}

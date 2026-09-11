@@ -1,0 +1,276 @@
+{
+  "moods": [
+    {
+      "id": "fresh",
+      "label": "Frais / méditerranéen",
+      "icon": "🌿",
+      "tags": [
+        "vegetarien",
+        "legumes",
+        "frais",
+        "mediterraneen"
+      ],
+      "cravingConcepts": [
+        "mushroom",
+        "aubergine",
+        "pesto",
+        "burrata",
+        "goat"
+      ]
+    },
+    {
+      "id": "classic",
+      "label": "Simple / classique",
+      "icon": "😌",
+      "tags": [
+        "classique",
+        "doux"
+      ],
+      "cravingConcepts": [
+        "ham",
+        "mushroom",
+        "olives",
+        "onions",
+        "goat"
+      ]
+    },
+    {
+      "id": "character",
+      "label": "Du caractère",
+      "icon": "🔥",
+      "tags": [
+        "piquant",
+        "intense",
+        "fromage_corse"
+      ],
+      "cravingConcepts": [
+        "strong_cheese",
+        "spicy",
+        "fennel_sausage",
+        "ham",
+        "mushroom"
+      ]
+    },
+    {
+      "id": "comfort",
+      "label": "Gourmand / réconfortant",
+      "icon": "🤤",
+      "tags": [
+        "gourmand",
+        "cremeux",
+        "reconfort"
+      ],
+      "cravingConcepts": [
+        "burrata",
+        "strong_cheese",
+        "mushroom",
+        "fennel_sausage",
+        "ham"
+      ]
+    },
+    {
+      "id": "wildcard",
+      "label": "Je sais pas, débrouille-toi",
+      "icon": "🎲",
+      "tags": [],
+      "cravingConcepts": []
+    }
+  ],
+  "concepts": [
+    {
+      "id": "mushroom",
+      "label": "Champignons",
+      "icon": "🍄",
+      "ingredients": [
+        "champignons",
+        "cepes"
+      ],
+      "tags": [
+        "champignons"
+      ]
+    },
+    {
+      "id": "burrata",
+      "label": "Burrata",
+      "icon": "⚪",
+      "ingredients": [
+        "burrata"
+      ],
+      "tags": [
+        "burrata"
+      ]
+    },
+    {
+      "id": "strong_cheese",
+      "label": "Fromage de caractère",
+      "icon": "🧀",
+      "ingredients": [
+        "gorgonzola",
+        "chevre",
+        "reblochon"
+      ],
+      "tags": [
+        "fromage_corse",
+        "gorgonzola",
+        "chevre"
+      ]
+    },
+    {
+      "id": "spicy",
+      "label": "Ça pique",
+      "icon": "🌶️",
+      "ingredients": [
+        "spianata_piccante"
+      ],
+      "tags": [
+        "piquant",
+        "spianata"
+      ]
+    },
+    {
+      "id": "aubergine",
+      "label": "Aubergine",
+      "icon": "🍆",
+      "ingredients": [
+        "aubergines",
+        "aubergines_confites"
+      ],
+      "tags": [
+        "aubergine"
+      ]
+    },
+    {
+      "id": "pesto",
+      "label": "Pesto",
+      "icon": "🌿",
+      "ingredients": [
+        "pesto"
+      ],
+      "tags": [
+        "pesto"
+      ]
+    },
+    {
+      "id": "fennel_sausage",
+      "label": "Saucisse au fenouil",
+      "icon": "🌭",
+      "ingredients": [
+        "saucisse_fenouil"
+      ],
+      "tags": [
+        "saucisse_fenouil"
+      ]
+    },
+    {
+      "id": "ham",
+      "label": "Jambon",
+      "icon": "🍖",
+      "ingredients": [
+        "jambon_blanc",
+        "jambon_cru",
+        "jambon_cru_fume"
+      ],
+      "tags": []
+    },
+    {
+      "id": "olives",
+      "label": "Olives",
+      "icon": "🫒",
+      "ingredients": [
+        "olives"
+      ],
+      "tags": [],
+      "vetoPreferred": true
+    },
+    {
+      "id": "onions",
+      "label": "Oignons",
+      "icon": "🧅",
+      "ingredients": [
+        "oignons"
+      ],
+      "tags": [],
+      "vetoPreferred": true
+    },
+    {
+      "id": "fish",
+      "label": "Poisson",
+      "icon": "🐟",
+      "ingredients": [
+        "thon",
+        "anchois"
+      ],
+      "tags": [
+        "poisson"
+      ],
+      "vetoPreferred": true
+    },
+    {
+      "id": "truffle",
+      "label": "Truffe",
+      "icon": "🖤",
+      "ingredients": [
+        "creme_truffe"
+      ],
+      "tags": [
+        "truffe"
+      ],
+      "signature": true
+    },
+    {
+      "id": "pistachio",
+      "label": "Pistache",
+      "icon": "🌰",
+      "ingredients": [
+        "pistache",
+        "pesto_pistache"
+      ],
+      "tags": [
+        "pistache"
+      ],
+      "signature": true
+    },
+    {
+      "id": "sweet_savoury",
+      "label": "Sucré-salé",
+      "icon": "🍯",
+      "ingredients": [
+        "miel",
+        "noix"
+      ],
+      "tags": [
+        "sucre_sale"
+      ],
+      "signature": true
+    },
+    {
+      "id": "goat",
+      "label": "Chèvre",
+      "icon": "🐐",
+      "ingredients": [
+        "chevre"
+      ],
+      "tags": [
+        "chevre"
+      ],
+      "signature": true
+    },
+    {
+      "id": "italian_cold_cuts",
+      "label": "Charcuterie italienne",
+      "icon": "🥓",
+      "ingredients": [
+        "jambon_cru",
+        "jambon_cru_fume",
+        "mortadelle",
+        "pancetta",
+        "guanciale",
+        "spianata_piccante"
+      ],
+      "tags": [
+        "italien"
+      ],
+      "signature": true
+    }
+  ]
+}
