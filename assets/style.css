@@ -189,7 +189,7 @@ h1 {
   cursor: pointer;
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 13px;
   transition: transform .15s ease, border-color .15s ease, background .15s ease;
 }
 
@@ -205,8 +205,9 @@ h1 {
   display: inline-block;
   text-align: center;
   font-size: 1.55rem;
-  flex: 0 0 auto;
+  line-height: 1;
   white-space: nowrap;
+  flex: 0 0 auto;
 }
 
 .choice-label {
