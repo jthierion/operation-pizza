@@ -314,7 +314,7 @@ function renderField() {
   }).join("");
 
   if (maxScore <= 0) {
-    $scoreLegend.textContent = "Les 30 pizzas sont encore à égalité.";
+    $scoreLegend.textContent = "Les 30 pizzas rentrent en lice...";
   } else {
     $scoreLegend.textContent =
       `Remplissage = affinité cumulée · ${maxScore} pts max à ce stade · gris = éliminée`;
