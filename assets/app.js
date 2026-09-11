@@ -591,7 +591,7 @@ function getPizzaProfile() {
     return {
       icon: "😈",
       name: "Chaos gourmand",
-      tagline: "Tu voulais du caractère. Tu as surtout refusé toute demi-mesure."
+      tagline: "Tu voulais du goût. Le compromis, lui, n'a pas survécu."
     };
   }
 
