@@ -372,7 +372,7 @@ function renderMood() {
   updateProgress("mood", 1, "Orientation générale");
   renderChoices({
     kicker: "ÉTAPE 1 · TON HUMEUR",
-    question: "Dans quel mood tu manges ce soir ?",
+    question: "Dans quel mood tu souhaites manger ?",
     helper: "Pas besoin de réfléchir comme si ta vie en dépendait. Normalement.",
     choices: state.moods,
     onChoose: mood => {
