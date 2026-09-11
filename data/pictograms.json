@@ -13,13 +13,13 @@
       "finalDisplay": "always"
     },
     "creme_truffe": {
-      "icon": "🖤",
+      "icon": "[🍄🖤]",
       "label": "Crème de truffe",
       "group": "base",
       "finalDisplay": "always"
     },
     "pesto_pistache": {
-      "icon": "🌰",
+      "icon": "[🌿🌰]",
       "label": "Pesto de pistache",
       "group": "base",
       "finalDisplay": "always"
@@ -31,13 +31,13 @@
       "finalDisplay": "never"
     },
     "mozzarella_bufflonne": {
-      "icon": "🐃",
+      "icon": "[🧀🐃]",
       "label": "Mozzarella de bufflonne",
       "group": "fromage",
       "finalDisplay": "distinctive"
     },
     "burrata": {
-      "icon": "⚪",
+      "icon": "[⚪🧀]",
       "label": "Burrata",
       "group": "fromage",
       "finalDisplay": "always"
@@ -49,19 +49,19 @@
       "finalDisplay": "distinctive"
     },
     "chevre": {
-      "icon": "🐐",
+      "icon": "[🧀🐐]",
       "label": "Chèvre",
       "group": "fromage",
       "finalDisplay": "always"
     },
     "gorgonzola": {
-      "icon": "🔵",
+      "icon": "[🧀🔵]",
       "label": "Gorgonzola",
       "group": "fromage",
       "finalDisplay": "always"
     },
     "reblochon": {
-      "icon": "🧀",
+      "icon": "[🧀🏔️]",
       "label": "Reblochon",
       "group": "fromage",
       "finalDisplay": "always"
@@ -79,7 +79,7 @@
       "finalDisplay": "always"
     },
     "jambon_cru_fume": {
-      "icon": "💨",
+      "icon": "[🥓💨]",
       "label": "Jambon cru fumé",
       "group": "viande",
       "finalDisplay": "distinctive"
@@ -91,7 +91,7 @@
       "finalDisplay": "always"
     },
     "guanciale": {
-      "icon": "🐷",
+      "icon": "[🐷🥓]",
       "label": "Guanciale",
       "group": "viande",
       "finalDisplay": "always"
@@ -103,19 +103,19 @@
       "finalDisplay": "always"
     },
     "mortadelle": {
-      "icon": "🩷",
+      "icon": "[🐷🩷]",
       "label": "Mortadelle",
       "group": "viande",
       "finalDisplay": "always"
     },
     "saucisse_fenouil": {
-      "icon": "🌭",
+      "icon": "[🌭🌿]",
       "label": "Saucisse au fenouil",
       "group": "viande",
       "finalDisplay": "always"
     },
     "spianata_piccante": {
-      "icon": "🌶️",
+      "icon": "[🥓🌶️]",
       "label": "Spianata piccante",
       "group": "viande",
       "finalDisplay": "always"
@@ -127,13 +127,13 @@
       "finalDisplay": "always"
     },
     "thon": {
-      "icon": "🐟",
+      "icon": "[🐟🥫]",
       "label": "Thon",
       "group": "poisson",
       "finalDisplay": "always"
     },
     "anchois": {
-      "icon": "🐟",
+      "icon": "[🐟🧂]",
       "label": "Anchois",
       "group": "poisson",
       "finalDisplay": "always"
@@ -151,7 +151,7 @@
       "finalDisplay": "always"
     },
     "cepes": {
-      "icon": "🍄",
+      "icon": "[🍄🌲]",
       "label": "Cèpes",
       "group": "legume",
       "finalDisplay": "distinctive"
@@ -229,13 +229,13 @@
       "finalDisplay": "always"
     },
     "creme_balsamique": {
-      "icon": "💧",
+      "icon": "[💧🟤]",
       "label": "Crème balsamique",
       "group": "condiment",
       "finalDisplay": "distinctive"
     },
     "pistache": {
-      "icon": "🌰",
+      "icon": "[🌰🟩]",
       "label": "Pistache",
       "group": "signature",
       "finalDisplay": "always"
@@ -271,7 +271,7 @@
       "finalDisplay": "never"
     },
     "persillade": {
-      "icon": "🌿",
+      "icon": "[🌿🧄]",
       "label": "Persillade",
       "group": "aromate",
       "finalDisplay": "distinctive"
@@ -283,7 +283,7 @@
       "finalDisplay": "never"
     },
     "huile_olive": {
-      "icon": "🫗",
+      "icon": "[🫒💧]",
       "label": "Huile d'olive",
       "group": "condiment",
       "finalDisplay": "never"

@@ -92,7 +92,7 @@
     {
       "id": "burrata",
       "label": "Burrata",
-      "icon": "⚪",
+      "icon": "[⚪🧀]",
       "ingredients": [
         "burrata"
       ],
@@ -103,7 +103,7 @@
     {
       "id": "strong_cheese",
       "label": "Fromage de caractère",
-      "icon": "🧀",
+      "icon": "[🧀🔥]",
       "ingredients": [
         "gorgonzola",
         "chevre",
@@ -153,7 +153,7 @@
     {
       "id": "fennel_sausage",
       "label": "Saucisse au fenouil",
-      "icon": "🌭",
+      "icon": "[🌭🌿]",
       "ingredients": [
         "saucisse_fenouil"
       ],
@@ -208,7 +208,7 @@
     {
       "id": "truffle",
       "label": "Truffe",
-      "icon": "🖤",
+      "icon": "[🍄🖤]",
       "ingredients": [
         "creme_truffe"
       ],
@@ -220,7 +220,7 @@
     {
       "id": "pistachio",
       "label": "Pistache",
-      "icon": "🌰",
+      "icon": "[🌰🟩]",
       "ingredients": [
         "pistache",
         "pesto_pistache"
@@ -246,7 +246,7 @@
     {
       "id": "goat",
       "label": "Chèvre",
-      "icon": "🐐",
+      "icon": "[🧀🐐]",
       "ingredients": [
         "chevre"
       ],
