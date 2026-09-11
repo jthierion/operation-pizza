@@ -189,7 +189,7 @@ h1 {
   cursor: pointer;
   display: flex;
   align-items: center;
-  gap: 13px;
+  gap: 12px;
   transition: transform .15s ease, border-color .15s ease, background .15s ease;
 }
 
@@ -202,13 +202,17 @@ h1 {
 
 .choice-icon {
   width: 76px;
+  display: inline-block;
   text-align: center;
   font-size: 1.55rem;
   flex: 0 0 auto;
+  white-space: nowrap;
 }
 
 .choice-label {
+  font-size: 0.95rem;
   font-weight: 750;
+  opacity: 0.88;
 }
 
 .start {

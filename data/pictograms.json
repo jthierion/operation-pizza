@@ -73,13 +73,13 @@
       "finalDisplay": "always"
     },
     "jambon_cru": {
-      "icon": "🥓",
+      "icon": "[🍖🧂]",
       "label": "Jambon cru",
       "group": "viande",
       "finalDisplay": "always"
     },
     "jambon_cru_fume": {
-      "icon": "[🥓🔥]",
+      "icon": "[🍖🔥]",
       "label": "Jambon cru fumé",
       "group": "viande",
       "finalDisplay": "distinctive"
@@ -97,7 +97,7 @@
       "finalDisplay": "always"
     },
     "pancetta": {
-      "icon": "🥓",
+      "icon": "[🥓🌀]",
       "label": "Pancetta",
       "group": "viande",
       "finalDisplay": "always"
@@ -163,7 +163,7 @@
       "finalDisplay": "always"
     },
     "aubergines_confites": {
-      "icon": "🍆",
+      "icon": "[🍆🫙]",
       "label": "Aubergines confites",
       "group": "legume",
       "finalDisplay": "always"
@@ -175,7 +175,7 @@
       "finalDisplay": "always"
     },
     "poivrons_confits": {
-      "icon": "🫑",
+      "icon": "[🫑🫙]",
       "label": "Poivrons confits",
       "group": "legume",
       "finalDisplay": "always"
@@ -193,7 +193,7 @@
       "finalDisplay": "distinctive"
     },
     "tomates_confites": {
-      "icon": "🍅",
+      "icon": "[🍅🫙]",
       "label": "Tomates confites",
       "group": "legume",
       "finalDisplay": "distinctive"
@@ -229,7 +229,7 @@
       "finalDisplay": "always"
     },
     "creme_balsamique": {
-      "icon": "[💧🟤]",
+      "icon": "[💧🟫]",
       "label": "Crème balsamique",
       "group": "condiment",
       "finalDisplay": "distinctive"
@@ -247,7 +247,7 @@
       "finalDisplay": "always"
     },
     "miel": {
-      "icon": "🍯",
+      "icon": "🐝",
       "label": "Miel",
       "group": "signature",
       "finalDisplay": "always"
