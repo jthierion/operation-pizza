@@ -725,7 +725,7 @@ function renderDeliverySlip(pizza) {
         à votre livreur.
       </div>
       <div class="delivery-subcopy">
-        Celui-ci fera le nécessaire. 😌🍕
+        Celui-ci fera le nécessaire. 🚗🍕
       </div>
     </div>`;
 }
@@ -827,7 +827,7 @@ function renderWinner(pizza, chosenByChaos = false) {
         ${renderDeliverySlip(pizza)}
 
         <p class="helper winner-copy">
-          C'est noté. Maintenant, aucune tentative de corruption du pizzaiolo ne sera tolérée. 😌
+          C'est noté. Maintenant, aucune tentative de corruption du pizzaiolo ne sera tolérée...
         </p>
 
         ${renderRatingWidget()}
